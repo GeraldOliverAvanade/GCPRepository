@@ -15,7 +15,7 @@ provider "google" {
 }
 
 resource "google_storage_bucket" "example" {
-  name          = "anjing-bucket"
+  name          = "1anjing-bucket"
   location      = "ASIA-NORTHEAST1"
   force_destroy = true
 }
