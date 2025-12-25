@@ -10,7 +10,7 @@ terraform {
 }
 
 provider "google" {
-  project = "<YOUR_PROJECT_ID>"
+  project = "runlhnk-avajpcloud-dev-2"
   region  = "asia-northeast1"
 }
 
